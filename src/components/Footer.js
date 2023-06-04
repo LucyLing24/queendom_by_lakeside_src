@@ -8,8 +8,7 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <div className="footer-copyright">
-        <h2>Live, travel, adventure, bless, and don't be sorry.</h2>
-          <h3>🌟 Copyright © Lucy Ling {new Date().getFullYear()} 🌟️</h3>
+          <h3 >🌟 Copyright © Queendom by Lakeside {new Date().getFullYear()} 🌟️</h3>
       </div>
     </Container>
   );

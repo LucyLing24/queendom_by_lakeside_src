@@ -1,13 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: "Raleway", serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  /*background-image: linear-gradient(to bottom, rgb(255, 219, 226),rgb(255, 255, 255));*/
+  background-image: linear-gradient(to bottom, #000000 0%, #ffffff 100%), url("Assets/chara_a_beautiful_planet_a_mosuo_minority_girls_and_boys_play_o_395215e4-1a24-4540-ab56-b5b6fe69099a.png");
 }
