@@ -2,7 +2,7 @@
   "name": "mit-unity",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lucyling24.github.io/queendom_by_lakeside",
+  "homepage": "https://lucyling24.github.io/queendom_by_lakeside/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
